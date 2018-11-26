@@ -2,7 +2,7 @@
 
 #the book with exercises 
 https://drive.google.com/file/d/0ByUQ8Y5fWH3LakZvOHprVVJSVjg/ 
-i will solve all exercises, please don't look at the solutions before you try to solve it 
+i will solve all the exercises but please don't look at the solutions before you try to solve it 
 USE PYTHON 3.4+
 
 #suggested python distributios is Anaconda 
